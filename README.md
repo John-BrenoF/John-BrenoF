@@ -4,13 +4,17 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
 
 ---
 
-## 🚀 Tecnologias & Linguagens
-
-- **Python**
-- **JavaScript**
-- **Nuxt.js 3**
-- **Vue.js 3**
-- **TailwindCSS**
+<div align="center" style="background: linear-gradient(90deg, #1e293b 0%, #38bdf8 100%); border-radius: 10px; padding: 20px 0; margin-bottom: 16px;">
+  
+  <h2 style="color: #fff;">🚀 Tecnologias & Linguagens</h2>
+  <ul style="list-style:none; color: #fff; font-size: 1.15rem; padding: 0; margin: 0;">
+    <li><b>Python</b></li>
+    <li><b>JavaScript</b></li>
+    <li><b>Nuxt.js 3</b></li>
+    <li><b>Vue.js 3</b></li>
+    <li><b>TailwindCSS</b></li>
+  </ul>
+</div>
 
 ---
 
