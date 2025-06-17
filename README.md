@@ -13,15 +13,15 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
 
 <div align="center" style="background: linear-gradient(90deg, #000c1 0%, #38bdf8 100%); border-radius: 10px; padding: 20px 0; margin-bottom: 16px;">
   
-  <h2 style="color: #fff;">🚀 Tecnologias & Linguagens</h2>
-  <ul style="list-style:none; color: #fff; font-size: 1.15rem; padding: 0; margin: 0;">
-    <li><b>Python</b></li>
-    <li><b>JavaScript</b></li>
-    <li><b>Nuxt.js 3</b></li>
-    <li><b>Vue.js 3</b></li>
-    <li><b>TailwindCSS</b></li>
-  </ul>
-</div>
+  ## 🚀 Tecnologias & Linguagens
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
+</p>
 
 ---
 ## 🗂️ Meus Repositórios Públicos
