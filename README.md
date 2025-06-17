@@ -26,10 +26,17 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
 ---
 ## 🗂️ Meus Repositórios Públicos
 
-- [chat de conexao TCP](https://github.com/John-BrenoF/chat-TCP.git)
-- [editor de pdf](https://github.com/John-BrenoF/hayd-pdf.git)
-- [site de uma pizzari](https://github.com/John-BrenoF/site-pizzaria.git)
-- ...
+<p align="center">
+  <a href="https://github.com/John-BrenoF/chat-TCP.git">
+    <img alt="chat de conexao TCP" src="https://img.shields.io/badge/chat%20de%20conexao%20TCP-22223B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/John-BrenoF/hayd-pdf.git">
+    <img alt="editor de pdf" src="https://img.shields.io/badge/editor%20de%20pdf-22223B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/John-BrenoF/site-pizzaria.git">
+    <img alt="site de uma pizzari" src="https://img.shields.io/badge/site%20de%20uma%20pizzari-22223B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 ## 💡 Sobre mim
