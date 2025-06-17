@@ -53,6 +53,9 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
   <a href="https://github.com/John-BrenoF/site-pizzaria.git">
     <img alt="site de uma pizzari" src="https://img.shields.io/badge/site%20de%20uma%20pizzari-22223B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://github.com/John-BrenoF/jogo-da-cobrinhha.git">
+    <img alt="site de uma pizzari" src="https://img.shields.io/badge/site%20de%20uma%20pizzari-22223B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
