@@ -19,9 +19,9 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
 ---
 ## 🗂️ Meus Repositórios Públicos
 
-- [repo1](https://github.com/John-BrenoF/chat-TCP.git)
-- [repo2](https://github.com/John-BrenoF/hayd-pdf.git)
-- [repo3](https://github.com/John-BrenoF/site-pizzaria.git)
+- [chat de conexao TCP](https://github.com/John-BrenoF/chat-TCP.git)
+- [editor de pdf](https://github.com/John-BrenoF/hayd-pdf.git)
+- [site de uma pizzari](https://github.com/John-BrenoF/site-pizzaria.git)
 - ...
 ---
 
