@@ -2,13 +2,16 @@
   
   <h1 style="color:#39ff14; text-shadow:0 0 10px #39ff14, 0 0 20px #0ff;">
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40" /> 
-    Olá, sou <span style="color:#39ff14;">John-BrenoF</span> 👋
+    Olá, sou <span style="color:#39ff14;">John-BrenoF</span>
+    <img src="https://img.shields.io/badge/Verificado-39ff14?style=flat-square&logo=github&logoColor=white" width="28" style="vertical-align: middle; margin-bottom: 5px;" alt="Verificado"/>
   </h1>
   
   <p style="color:#fff; font-size:1.2rem; text-shadow:0 0 6px #39ff14;">
-    Bem-vindo ao meu perfil com muita energia, tecnologia e 💡 neon!
+    programador por amor
   </p>
   
+</div>
+
 </div>
 
 
