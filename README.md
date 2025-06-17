@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
 <div align="center">
 
 ![John-BrenoF's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-BrenoF&show_icons=true&theme=radical&count_private=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&hide=css,html&theme=radical)
 </div>
 
 <div align="center" style="background: linear-gradient(90deg, #1e293b 0%, #38bdf8 100%); border-radius: 10px; padding: 20px 0; margin-bottom: 16px;">
@@ -21,9 +21,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
     <li><b>Vue.js 3</b></li>
     <li><b>TailwindCSS</b></li>
   </ul>
-</div>
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&hide=css,html&theme=radical)
 </div>
 
 ---
