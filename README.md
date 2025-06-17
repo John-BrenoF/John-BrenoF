@@ -1,14 +1,22 @@
 <div align="center">
-  
-  <h1 style="color:#39ff14; text-shadow:0 0 10px #39ff14, 0 0 20px #0ff;">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40" /> 
-    Olá, sou <span style="color:#39ff14;">John-BrenoF</span> 👋
-  </h1>
-  
-  <p style="color:#fff; font-size:1.2rem; text-shadow:0 0 6px #39ff14;">
-    Bem-vindo ao meu perfil com muita energia, tecnologia e 💡 neon!
-  </p>
-  
+  <a href="#">
+    <svg width="400" height="60">
+      <defs>
+        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+          <feMerge>
+            <feMergeNode in="coloredBlur"/>
+            <feMergeNode in="SourceGraphic"/>
+          </feMerge>
+        </filter>
+      </defs>
+      <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central"
+            font-family="Verdana" font-size="40" fill="#fff"
+            filter="url(#glow)">
+        John-BrenoF
+      </text>
+    </svg>
+  </a>
 </div>
 
 
