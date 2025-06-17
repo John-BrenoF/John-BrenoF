@@ -3,12 +3,14 @@
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, principais tecnologias e um pouco sobre minha trajetória como desenvolvedor.
 
 ---
+
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 24px;">
 
-![John-BrenoF's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-BrenoF&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&hide=css,html&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=John-BrenoF&show_icons=true&theme=radical&count_private=true&border_radius=20&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=fff" alt="GitHub Stats" width="400" style="box-shadow: 0 0 24px #39ff14, 0 0 48px #0ff; border-radius: 20px; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&hide=css,html&theme=radical&border_radius=20&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=fff" alt="Top Langs" width="340" style="box-shadow: 0 0 24px #39ff14, 0 0 48px #0ff; border-radius: 20px;"/>
+  
 </div>
 
 <div align="center" style="background: linear-gradient(90deg, #000c1 0%, #38bdf8 100%); border-radius: 10px; padding: 20px 0; margin-bottom: 16px;">
