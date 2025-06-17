@@ -24,6 +24,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
 </p>
 
 ---
+
 ## 🗂️ Meus Repositórios Públicos
 
 <p align="center">
@@ -37,6 +38,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
     <img alt="site de uma pizzari" src="https://img.shields.io/badge/site%20de%20uma%20pizzari-22223B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## 💡 Sobre mim
