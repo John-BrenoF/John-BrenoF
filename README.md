@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
 
 ---
 
-## 📊 Estatísticas do GitHub
+
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 24px;">
 
@@ -65,10 +65,3 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos, princip
 Desenvolvedor apaixonado por tecnologia, focado em soluções modernas para web, interfaces SPA e desenvolvimento backend. Sempre buscando aprender e compartilhar conhecimento!
 
 ---
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seuusuario)
-  [![Portfolio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel)](https://seuportfolio.com)
-  
-</div>
