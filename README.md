@@ -3,6 +3,17 @@
 
 # 👨‍💻✨ Olá, eu sou <span style="color:#ffffff;">John-BrenoF</span>  
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45"/>
+<p align="center">
+  <a href="mailto:johnbrenosf7@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B50A3?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/+5596992042191" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://www.threads.net/@john_breno.812" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+</p>
 
 <p style="color:#bbb; font-size:1.3rem;">
   🚀 Programador por amor | Criando soluções modernas e criativas
