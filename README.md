@@ -20,11 +20,12 @@
 
 ---
 
-##  Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub  
 
 <div align="center" style="display:flex; flex-wrap:wrap; flex-direction:row; gap:24px; justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=John-BrenoF&show_icons=true&count_private=true&border_radius=15&bg_color=111&title_color=fff&icon_color=fff&text_color=bbb&hide_border=true" width="400" style="border-radius:15px; box-shadow:0 0 10px #333;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-BrenoF&hide=css,html&border_radius=15&bg_color=111&title_color=fff&text_color=bbb&hide_border=true" width="400" style="border-radius:15px; box-shadow:0 0 10px #333;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&hide=css,html&border_radius=15&bg_color=111&title_color=fff&text_color=bbb&hide_border=true" width="400" style="border-radius:15px; box-shadow:0 0 10px #333;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=John-BrenoF&theme=dark-minimal&border_radius=15&background=111&hide_border=true" width="400" style="border-radius:15px; box-shadow:0 0 10px #333;"/>
 </div>
 
 ## 🗂️ Projetos em Destaque  
@@ -59,4 +60,3 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
 </p>
-
