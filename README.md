@@ -42,9 +42,6 @@
   <a href="https://github.com/John-BrenoF/jogo-da-cobrinhha">
     <img alt="Jogo da Cobrinha" src="https://img.shields.io/badge/Jogo_da_Cobrinha-222?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a>
-    <img alt="simulador do sistema solar" src="https://img.shields.io/badge/simulador-sistemas-sola-222?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
