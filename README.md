@@ -14,7 +14,14 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; justify-items: center;">
-      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,linux&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby&theme=dark" />
+    </div>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; justify-items: center;">
+      <img src="https://skillicons.dev/icons?i=python,vue,react,nuxt,tailwind,git,github,linux&theme=dark" />
     </div>
   </a>
 </p>
