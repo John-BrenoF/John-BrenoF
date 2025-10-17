@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; justify-items: center;">
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; justify-items: center;">
       <img src="https://skillicons.dev/icons?i=python&theme=dark" />
       <img src="https://skillicons.dev/icons?i=js&theme=dark" />
       <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
