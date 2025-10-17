@@ -11,25 +11,10 @@
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; justify-items: center;">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=js&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=html&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=css&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=rust&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=ruby&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=vue&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=nuxt&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; justify-items: center;">
+      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,linux&theme=dark" />
     </div>
   </a>
 </p>
