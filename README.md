@@ -34,24 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=John-BrenoF&show_icons=true&count_private=true&border_radius=15&bg_color=111&title_color=fff&icon_color=fff&text_color=bbb&hide_border=true" width="400" style="border-radius:15px; box-shadow:0 0 10px #333;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&hide=css,html&border_radius=15&bg_color=111&title_color=fff&text_color=bbb&hide_border=true" width="400" style="border-radius:15px; box-shadow:0 0 10px #333;"/>
 </div>
-
-## 🗂️ Projetos em Destaque  
-
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/John-BrenoF/chat-TCP">
-    <img alt="Chat TCP" src="https://img.shields.io/badge/Chat_TCP-222?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/John-BrenoF/hayd-pdf">
-    <img alt="Editor PDF" src="https://img.shields.io/badge/Editor_PDF-222?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/John-BrenoF/site-pizzaria">
-    <img alt="Site Pizzaria" src="https://img.shields.io/badge/Site_Pizzaria-222?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/John-BrenoF/jogo-da-cobrinhha">
-    <img alt="Jogo da Cobrinha" src="https://img.shields.io/badge/Jogo_da_Cobrinha-222?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 📬 Entre em Contato
