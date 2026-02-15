@@ -1,59 +1,39 @@
-<div align="center" style="background-color: #0d1117; padding: 60px 40px; border-radius: 20px; border: 1px solid #21262d; max-width: 1000px; margin: 0 auto; color: #c9d1d9;">
+Olá 👋 Meu nome é John-BrenoF
+=================================
 
-  <!-- HEADER ANIMADO (neon + twinkling) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,ff79c6&height=220&section=header&text=John-BrenoF&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=42" alt="Header neon" />
+pilha completa de desenvolvidas
+----------------------------------
 
-  <p style="font-size: 1.65rem; color: #8b949e; margin: 32px 0 55px; max-width: 620px;">
-    Desenvolvedor por paixão. Construo ferramentas rápidas, leves e pensadas para quem vive no terminal.
-  </p>
+Desenvolvedor por paixão. Ferramentas de construção para resolver problemas .
 
-  <h2 style="color: #ff79c6; font-size: 1.95rem; margin: 0 0 26px; letter-spacing: 2px; text-transform: uppercase;">
-    TECNOLOGIAS
-  </h2>
+é programação de livro de matemática onde se resolvedo todos os problemas.
 
-  <p style="margin: 0 0 65px;">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,ai,linux&theme=dark&perline=8" alt="Stack" />
-  </p>
+* 🌍 Sou baseado no Brasil
+* ✉️ Você pode entrar em contato comigo em [johnbrenosf7@proton.me](mailto:johnbrenosf7@proton.me)
+* 🚀 Atualmente estou trabalhando em [tasmacode](http://github.com/John-BrenoF/TASMACODE-neo.git)
+* 🧠 Atualmente estou aprendendo node.js
+* 💬 Pergunte-me sobre á movido carfeína , codigo , contas e um paga
+<p align="esquerda">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/skills/<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python"<a href="https://www.ruby-lang.org/en/" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" alt="Ruby"<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="<a href="https://docs.microsoft.com/en-us/cpp/? view=msvc-170" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplus-colored.svg" alt="C++" title="C++" width="36"<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript"<a href="https://git-scm.com/" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" title=<a href="https://docs.microsoft.com/en-us/cpp/? view=msvc-170" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36"<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcanney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt<a href="https://www.vim.org/" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielcanney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title=<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/s<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.s<a href="https://tailwindcss.com/" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielcanney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="Tail<a href="https://vuejs.org/" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielbuney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue"<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React"<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" alt="N<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcanney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJ"<a href="https://www.raspberrypi.org/" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danieltaney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry"<a href="https://www.linux.org" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title=<a href="https://fedoraproject.org/" target="_blank" rel="norreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora"<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title=
+                  </p>
+                  
 
-  <h2 style="color: #ff79c6; font-size: 1.9rem; margin: 0 0 24px; letter-spacing: 1px;">
-    ESTATÍSTICAS
-  </h2>
+                ### Sociais
+                
+                <p align="esquerda"> <a href="https://www.github.com/John-BrenoF" target="_blank" rel="norreferrer"> <Foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </imagem> </a> <a href="https://www.threads.net/@john_breno.812" target="_blank" rel="noreferrer"> <Foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </imagem> </a></p>
+<a href="https://www.github.com/John-BrenoF" target="_blank" rel="norreferrer"><img
+                src="https://img.shields.io/github/followers/John-BrenoF? logo=github&style=para-o-crachá&color=0891b2&labelColor=1c1917" /></a>
 
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 70px;">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=John-BrenoF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&icon_color=8b5cf6" alt="Stats" style="max-width: 480px;" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&langs_count=10" alt="Top Langs" style="max-width: 480px;" />
-  </div>
-  
-  <h2 style="color: #ff79c6; font-size: 1.95rem; margin: 0 0 26px; letter-spacing: 2px; text-transform: uppercase;">
-    CONTATO
-  </h2>
+### Emblemas
 
-  <p style="margin-bottom: 70px;">
-    <a href="mailto:johnbrenosf7@proton.me">
-      <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" alt="Email" />
-    </a>
-    <a href="https://t.me/+5596992042191" style="margin: 0 22px;">
-      <img src="https://img.shields.io/badge/TELEGRAM-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram" />
-    </a>
-    <a href="https://www.threads.net/@john_breno.812">
-      <img src="https://img.shields.io/badge/THREADS-8B5CF6?style=for-the-badge&logo=threads&logoColor=white&labelColor=0d1117" alt="Threads" />
-    </a>
-  </p>
+<b>Minhas Estatísticas do GitHub</b>
 
-  <h2 style="color: #ff79c6; font-size: 2.3rem; margin: 0 0 32px; letter-spacing: 1px;">
-    PROJETOS DE ORGULHO
-  </h2>
+<a href="http://www.github.com/John-BrenoF"><img src="https://github-readme-stats.vercel.app/api? username=John-BrenoF&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="John-BrenoF's GitHub stats" />
 
-  <div style="display: flex; justify-content: center; gap: 42px; flex-wrap: wrap; margin-bottom: 50px;">
-    <a href="https://github.com/John-BrenoF/TASMACODE-neo" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/TASMACODE--neo-8B5CF6?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="TASMACODE-neo" />
-    </a>
-    <a href="https://github.com/John-BrenoF/icondev" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/icondev-8B5CF6?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="icondev" />
-    </a>
-  </div>
+<a href="http://www.github.com/John-BrenoF"><img src="https://github-readme-streak-stats.herokuapp.com/? user=John-BrenoF&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&curStreakLabel=0891b2&sideNums=fffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-  <!-- ANIMAÇÃO FINAL (cobra de contribuições em dark) -->
-  <img src="https://raw.githubusercontent.com/John-BrenoF/John-BrenoF/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" style="margin-top: 40px; max-width: 100%; filter: brightness(0.95);" />
+<a href="https://github.com/John-BrenoF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/? username=John-BrenoF&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Linguagens" alt="Top Languages" /></a>
 
-</div>
+<b>Repositórios superiores</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /><br />>
