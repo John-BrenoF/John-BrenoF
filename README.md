@@ -22,11 +22,7 @@ programação é como livro de matemática onde deve se resolvido todos os probl
 
   <p style="margin: 0 0 60px;">
     <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,ai,linux&theme=dark&perline=8" alt="Stack" />
-  </p>
-  <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>
-                  </p>
-                  
+  </p>                 
 
 
   <h2 style="color: #ff79c6; font-size: 1.9rem; margin: 0 0 24px; letter-spacing: 1px;">
