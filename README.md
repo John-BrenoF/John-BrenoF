@@ -44,11 +44,10 @@ programação é como livro de matemática onde deve se resolvido todos os probl
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&langs_count=10" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=default&hide_border=true" alt="Top Langs" style="max-width: 480px;" />
   </picture>
-
+<!--
   <h2 style="color: #ff79c6; font-size: 1.9rem; margin: 40px 0 24px; letter-spacing: 1px;">
     CONTATO
   </h2>
-
   <p style="margin-bottom: 60px;">
     <a href="mailto:johnbrenosf7@proton.me">
       <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" alt="Email" />
@@ -59,8 +58,7 @@ programação é como livro de matemática onde deve se resolvido todos os probl
     <a href="https://www.threads.net/@john_breno.812">
       <img src="https://img.shields.io/badge/THREADS-8B5CF6?style=for-the-badge&logo=threads&logoColor=white&labelColor=0d1117" alt="Threads" />
     </a>
-  </p>
-
+  </p> -->
   <h2 style="color: #ff79c6; font-size: 2.2rem; margin: 0 0 30px; text-align: center;">
     PROJETOS DE ORGULHO
   </h2>
