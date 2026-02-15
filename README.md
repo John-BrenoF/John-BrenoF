@@ -24,10 +24,6 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&langs_count=10" alt="Top Langs" style="max-width: 480px;" />
   </div>
 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&langs_count=10" />
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=default&hide_border=true" alt="Top Langs" style="max-width: 490px;" />
-    </picture>
   </div>
 
   <h2 style="color: #ff79c6; font-size: 1.95rem; margin: 0 0 26px; letter-spacing: 2px; text-transform: uppercase;">
