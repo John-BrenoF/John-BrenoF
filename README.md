@@ -14,11 +14,6 @@
   <p style="margin: 0 0 65px;">
     <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,ai,linux&theme=dark&perline=8" alt="Stack" />
   </p>
-<!-- ANIMAÇÃO FINAL (cobra de contribuições) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/John-BrenoF/John-BrenoF/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/John-BrenoF/John-BrenoF/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" style="margin-top: 40px; max-width: 100%; filter: brightness(0.95);" />
-</picture>
 
   <h2 style="color: #ff79c6; font-size: 1.9rem; margin: 0 0 24px; letter-spacing: 1px;">
     ESTATÍSTICAS
