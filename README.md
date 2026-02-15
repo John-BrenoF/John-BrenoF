@@ -15,6 +15,9 @@
     <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,ai,linux&theme=dark&perline=8" alt="Stack" />
   </p>
 
+  <img src="https://raw.githubusercontent.com/John-BrenoF/John-BrenoF/output/snake.svg" alt="Snake animation" />
+
+
   <h2 style="color: #ff79c6; font-size: 1.9rem; margin: 0 0 24px; letter-spacing: 1px;">
     ESTATÍSTICAS
   </h2>
