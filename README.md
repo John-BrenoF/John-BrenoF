@@ -3,10 +3,8 @@
   <!-- Header animado (GIF neon/typing ou code rain) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=John-BrenoF&fontSize=60&fontColor=ff79c6&animation=twinkling&fontAlignY=38" alt="Header animado" />
 
-  ============================
 
 desenvolver full stack
-----------------------
 
 Desenvolvedor por paixão. Construo ferramentas para resolve problemas .
 
