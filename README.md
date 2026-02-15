@@ -27,12 +27,14 @@
 </p>
 
 
-## 📊 Estatísticas do GitHub  
+## 📊 Estatísticas do GitHub
 
-<div align="center" style="display:flex; flex-wrap:wrap; flex-direction:row; gap:24px; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=John-BrenoF&show_icons=true&count_private=true&border_radius=15&bg_color=111&title_color=fff&icon_color=fff&text_color=bbb&hide_border=true" width="400" style="border-radius:15px; box-shadow:0 0 10px #333;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&hide=css,html&border_radius=15&bg_color=111&title_color=fff&text_color=bbb&hide_border=true" width="400" style="border-radius:15px; box-shadow:0 0 10px #333;"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-fast.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula"/></td>
+    <td><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dracula"/></td>
+  </tr>
+</table>
 
 ## 📬 Entre em Contato
 
