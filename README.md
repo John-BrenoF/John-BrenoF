@@ -44,11 +44,17 @@
   <hr style="border: 0; height: 1px; background: #30363d; margin: 0 0 50px;" />
 
   <h2 style="color: #ff79c6; font-size: 2.2rem; margin: 0 0 30px;">
-    PROJETO DE ORGULHO
+    PROJETOS DE ORGULHO
   </h2>
 
-  <a href="https://github.com/John-BrenoF/TASMACODE-neo" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/TASMACODE--neo-8B5CF6?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0d1117" alt="TASMACODE-neo" />
-  </a>
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <a href="https://github.com/John-BrenoF/TASMACODE-neo" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/TASMACODE--neo-8B5CF6?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0d1117" alt="TASMACODE-neo" />
+    </a>
+
+    <a href="https://github.com/John-BrenoF/icondev" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/icondev-8B5CF6?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" alt="icondev" />
+    </a>
+  </div>
 
 </div>
