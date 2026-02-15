@@ -14,21 +14,16 @@
   <p style="margin: 0 0 65px;">
     <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,ai,linux&theme=dark&perline=8" alt="Stack" />
   </p>
-
+  
   <h2 style="color: #ff79c6; font-size: 1.95rem; margin: 0 0 26px; letter-spacing: 2px; text-transform: uppercase;">
-    ESTATÍSTICAS
-  </h2>
+  ESTATÍSTICAS
+</h2>
 
-  <div style="display: flex; justify-content: center; gap: 42px; flex-wrap: wrap; margin-bottom: 75px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=John-BrenoF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&icon_color=8b5cf6" />
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=John-BrenoF&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" alt="Stats" style="max-width: 490px;" />
-    </picture>
+<div align="center" style="margin: 40px 0 70px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=John-BrenoF&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&icon_color=8b5cf6&hide_title=true&hide_rank=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&hide_title=true" height="160" alt="Top Languages" />
+</div>
 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&langs_count=10" />
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=default&hide_border=true" alt="Top Langs" style="max-width: 490px;" />
-    </picture>
   </div>
 
   <h2 style="color: #ff79c6; font-size: 1.95rem; margin: 0 0 26px; letter-spacing: 2px; text-transform: uppercase;">
