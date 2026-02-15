@@ -39,6 +39,10 @@ programação é como livro de matemática onde deve se resolvido todos os probl
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&langs_count=10" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=default&hide_border=true" alt="Top Langs" style="max-width: 480px;" />
   </picture>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/John-BrenoF"><img src="https://github-readme-streak-stats.herokuapp.com/?user=John-BrenoF&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <!--
   <h2 style="color: #ff79c6; font-size: 1.9rem; margin: 40px 0 24px; letter-spacing: 1px;">
     CONTATO
