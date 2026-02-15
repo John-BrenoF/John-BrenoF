@@ -1,76 +1,75 @@
 <div align="center" style="background-color: #0d1117; padding: 40px 20px; border-radius: 12px; border: 1px solid #30363d; max-width: 900px; margin: 0 auto;">
 
-  <h1 style="color: #c9d1d9; margin: 0; font-size: 3.2rem; letter-spacing: 1px;">
-    TASMACODE<span style="color: #ff79c6;">-neo</span>
-    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#8b5cf6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; margin-left: 12px;">
-      <path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"></path>
+  <h1 style="color: #c9d1d9; margin: 0; font-size: 3.2rem;">
+    👨‍💻 Olá, eu sou <span style="color: #ff79c6;">John-BrenoF</span>
+    <svg width="42" height="42" viewBox="0 0 24 24" fill="none" stroke="#8b5cf6" stroke-width="2" style="vertical-align: middle; margin-left: 12px;">
+      <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+      <circle cx="12" cy="7" r="4"></circle>
     </svg>
   </h1>
 
   <p style="color: #8b949e; font-size: 1.4rem; margin: 16px 0 32px;">
-    Editor de código via terminal poderoso, leve e customizável — feito com <span style="color: #58a6ff;">paixão</span> para devs que vivem no terminal.
+    Programador por paixão • Criando soluções modernas e criativas
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#58a6ff" stroke-width="2" style="vertical-align: middle; margin-left: 8px;">
+      <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+    </svg>
   </p>
 
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Terminal-First-8B5CF6?style=for-the-badge&logo=linux&logoColor=white" alt="Terminal First" />
-    <img src="https://img.shields.io/github/license/John-BrenoF/TASMACODE-neo?style=for-the-badge&color=8B5CF6" alt="License" />
-    <img src="https://img.shields.io/github/stars/John-BrenoF/TASMACODE-neo?style=for-the-badge&color=ff79c6" alt="Stars" />
+  ## 🚀 Tecnologias & Ferramentas
+
+  <p style="margin: 24px 0;">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,ai,linux&theme=dark&perline=8" alt="Tech stack" />
   </p>
 
-  <hr style="border-color: #30363d; margin: 40px 0;" />
+  ## 📊 Estatísticas do GitHub
 
-  ## 🔥 Por que esse é meu orgulho?
-
-  TASMACODE-neo é um editor de código **full terminal** que eu construí do zero pra ser rápido, modular e cheio de features que eu sempre quis em um editor CLI:
-
-  - Múltiplas abas (tabs) com gerenciamento inteligente
-  - Syntax highlighting, linter integrado (flake8/async), auto-complete básico
-  - Busca global, replace, tree view de arquivos
-  - Sessões persistentes (abre exatamente onde parou)
-  - Suporte a plugins (carregamento dinâmico)
-  - Interface limpa, keybindings customizáveis
-  - Leve pra caralho — roda suave até em máquina antiga
-
-  Perfeito pra quem odeia IDE pesada e vive no **tmux + vim/neovim** mas queria algo mais "moderno" sem perder performance.
-
-  <hr style="border-color: #30363d; margin: 40px 0;" />
-
-  ## 🛠 Tecnologias & Ferramentas
-
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,git,linux,vscode,neovim&theme=dark" alt="Tech stack" />
-  </p>
-
-  <hr style="border-color: #30363d; margin: 40px 0;" />
-
-  ## 📊 Estatísticas do Projeto
-
-  <table align="center" style="border: none; background: transparent;">
+  <table align="center" style="border: none; background: transparent; margin: 32px 0;">
     <tr>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=John-BrenoF&repo=TASMACODE-neo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&icon_color=8b5cf6" alt="Repo Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=John-BrenoF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&icon_color=8b5cf6" alt="Estatísticas" />
       </td>
       <td>
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=John-BrenoF&repo=TASMACODE-neo&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9" alt="Repo Pin" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&langs_count=8" alt="Top Linguagens" />
       </td>
     </tr>
   </table>
 
-  <hr style="border-color: #30363d; margin: 40px 0;" />
+  ## 📬 Entre em Contato
 
-  ## 🚀 Instalação Rápida
+  <p style="margin: 32px 0;">
+    <a href="mailto:johnbrenosf7@proton.me" target="_blank">
+      <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    </a>
+    <a href="https://t.me/+5596992042191" target="_blank" style="margin: 0 12px;">
+      <img src="https://img.shields.io/badge/Telegram-8B5CF6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram" />
+    </a>
+    <a href="https://www.threads.net/@john_breno.812" target="_blank">
+      <img src="https://img.shields.io/badge/Threads-8B5CF6?style=for-the-badge&logo=threads&logoColor=white&labelColor=0d1117" alt="Threads" />
+    </a>
+  </p>
 
-  ```bash
-  # Clone o repo
-  git clone https://github.com/John-BrenoF/TASMACODE-neo.git
-  cd TASMACODE-neo
+  <hr style="border-color: #30363d; margin: 48px 0 32px;" />
 
-  # Instale dependências (recomendo virtualenv)
-  python -m venv venv
-  source venv/bin/activate
-  pip install -r requirements.txt
+  ## 💀 Projeto de Orgulho
 
-  # Rode!
-  python src/main.py
+  <div style="background: #161b22; padding: 24px; border-radius: 12px; border: 1px solid #30363d; max-width: 600px; margin: 0 auto;">
+    <h3 style="color: #ff79c6; margin: 0 0 12px; font-size: 1.8rem;">
+      TASMACODE-neo
+      <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#ff79c6" stroke-width="2" style="vertical-align: middle; margin-left: 10px;">
+        <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+        <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+      </svg>
+    </h3>
+
+    <p style="color: #c9d1d9; margin: 0 0 16px;">
+      Editor de código via terminal para Linux — leve, rápido e feito para produtividade no shell.
+    </p>
+
+    <p style="margin: 16px 0 0;">
+      <a href="https://github.com/John-BrenoF/TASMACODE-neo" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: bold;">
+        → Ver no GitHub
+      </a>
+    </p>
+  </div>
+
+</div>
