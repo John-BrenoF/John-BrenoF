@@ -14,17 +14,16 @@
   <p style="margin: 0 0 65px;">
     <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,ai,linux&theme=dark&perline=8" alt="Stack" />
   </p>
+
+  <h2 style="color: #ff79c6; font-size: 1.9rem; margin: 0 0 24px; letter-spacing: 1px;">
+    ESTATÍSTICAS
+  </h2>
+
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 70px;">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=John-BrenoF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&icon_color=8b5cf6" alt="Stats" style="max-width: 480px;" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=John-BrenoF&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=c9d1d9&langs_count=10" alt="Top Langs" style="max-width: 480px;" />
+  </div>
   
- <h2 style="color: #ff79c6; font-size: 1.95rem; margin: 0 0 26px; letter-spacing: 2px; text-transform: uppercase;">
-  ESTATÍSTICAS
-</h2>
-
-<br clear="both">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=John-BrenoF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=John-BrenoF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
   <h2 style="color: #ff79c6; font-size: 1.95rem; margin: 0 0 26px; letter-spacing: 2px; text-transform: uppercase;">
     CONTATO
   </h2>
