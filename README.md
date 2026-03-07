@@ -13,7 +13,7 @@ programação é como livro de matemática onde deve se resolvido todos os probl
 *   🌍  I'm based in Brasil
 *   ✉️  You can contact me at [johnbrenosf7@proton.me](mailto:johnbrenosf7@proton.me)
 *   🚀  I'm currently working on [tasmacode](http://github.com/John-BrenoF/TASMACODE-neo.git)
-*   🧠  I'm currently learning node.js
+*   🧠  I'm currently learning asm 
 *   💬  Ask me about movido á carfeína , codigo , bugs e contas a paga
 
   <h2 style="color: #ff79c6; font-size: 1.9rem; margin: 0 0 24px; letter-spacing: 1px;">
@@ -21,7 +21,7 @@ programação é como livro de matemática onde deve se resolvido todos os probl
   </h2>
 
   <p style="margin: 0 0 60px;">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,ruby,vue,react,nuxt,tailwind,git,github,ai,linux&theme=dark&perline=8" alt="Stack" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,cpp,rust,asm,ruby,vue,react,nuxt,tailwind,git,github,ai,linux&theme=dark&perline=8" alt="Stack" />
   </p>                 
 
 
