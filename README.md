@@ -1,4 +1,9 @@
 # John Breno
+### contato
+<p> email: johnbrenosf7@proton.me </p>
+
+---
+#### meu site: https://john-brenof.github.io/johnbreno-f/
 
 Desenvolvedor Full Stack focado em construir ferramentas eficientes para a resolução de problemas técnicos.
 
@@ -6,8 +11,8 @@ Desenvolvedor Full Stack focado em construir ferramentas eficientes para a resol
 
 ## Diretrizes e Objetivos
 * **Abordagem:** Desenvolvimento orientado à lógica pura e eficiência.
-* **Foco Atual:** Aprendizado aprofundado de Assembly (ASM).
-* **Projeto Ativo:** [TASMACODE-neo](https://github.com/John-BrenoF/TASMACODE-neo.git)
+* **Foco Atual:** Aprendizado aprofundado rust
+* **Projeto Ativo:** [notohiis](https://github.com/John-BrenoF/notohiis.git)
 
 ---
 
