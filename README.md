@@ -12,8 +12,6 @@ Desenvolvedor Full Stack focado na construção de ferramentas eficientes e reso
 * **Projeto Ativo:** [notohiis](https://github.com/John-BrenoF/notohiis.git)
 
 ## Tecnologias e Ferramentas
-
-```text
-Linguagens:     Python, JavaScript, TypeScript, C++, Rust, Ruby, Assembly
-Frontend:       HTML, CSS, Vue, React, Nuxt, Tailwind
-Ferramental:    Git, GitHub, Linux
+* **Linguagens:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, JavaScript, TypeScript, C++, Rust, Ruby, Assembly
+* **Frontend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML, CSS, Vue, React, Nuxt, Tailwind
+* **Ferramental:** &nbsp;&nbsp;&nbsp; Git, GitHub, Linux
