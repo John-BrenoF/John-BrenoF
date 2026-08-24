@@ -13,6 +13,6 @@ Desenvolvedor movido á café pelas madrugadas.
 * **Projeto Ativo:** [notohiis](https://github.com/John-BrenoF/notohiis.git)
 
 ## Tecnologias e Ferramentas
-* **Linguagens:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, JavaScript, TypeScript, C++, Rust, Ruby, Assembly
+* **Linguagens:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python, JavaScript, TypeScript, C++, Rust, Ruby, Assembly ( meu foco é python )
 * **Frontend:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML, CSS, Vue, React, Nuxt, Tailwind
 * **Ferramental:** &nbsp;&nbsp;&nbsp; Git, GitHub, Linux
