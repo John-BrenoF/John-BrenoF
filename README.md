@@ -1,13 +1,14 @@
 # John Breno F
 
-Desenvolvedor Full Stack focado na construção de ferramentas eficientes e resolução de problemas técnicos.
+Desenvolvedor movido á café pelas madrugadas.
 
-## Contato & Links
+**aprendi que : "não existir esperança onde estudamos logica de programação para  quando chega na pratica o código quebra sem logica no dia seguinte"**
+
+### Contato & Links
 * **E-mail:** johnbrenosf7@proton.me
 * **Website:** [john-brenof.github.io/johnbreno-f](https://john-brenof.github.io/johnbreno-f/)
 
-## Diretrizes e Objetivos
-* **Abordagem:** Desenvolvimento orientado à lógica pura e eficiência.
+---
 * **Foco Atual:** Aprendizado aprofundado em Rust.
 * **Projeto Ativo:** [notohiis](https://github.com/John-BrenoF/notohiis.git)
 
