@@ -1,4 +1,4 @@
-<img align="left" width="500" style="border-right: 2px solid #555; padding-right: 20px; margin-right: 20px;" src="https://i.pinimg.com/1200x/08/03/88/080388df9cb43ff4dc544584205a17e2.jpg">
+<img align="left" width="500" style="border-right: 2px solid #555; padding-right: 20px; margin-right: 20px;" src="https://i.pinimg.com/736x/8b/48/bd/8b48bd113fe90ef295b42767a4076633.jpg">
 
 ### John Breno F
 
@@ -19,7 +19,9 @@ Desenvolvedor movido á café pelas madrugadas.
  ### Tecnologias e Ferramentas
  
  **Linguagens:** Python, JavaScript, TypeScript, C++, Rust, Ruby, Assembly ( meu foco é python )
+ 
  **Frontend:** HTML, CSS, Vue, React, Nuxt, Tailwind
+ 
  **Ferramental:** Git, GitHub, Linux
 
 <br clear="left"/>
