@@ -4,8 +4,6 @@
  
  **Foco Atual:** Aprendizado aprofundado em Rust.
  
- **Projeto Ativo:** [notohiis](https://github.com/John-BrenoF/notohiis.git)
-
  ### Tecnologias e Ferramentas
  
  **Linguagens:** Python, JavaScript, TypeScript, C++, Rust, Ruby, Assembly ( meu foco é python )
