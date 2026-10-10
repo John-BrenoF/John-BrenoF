@@ -1,11 +1,3 @@
-### John Breno F
-
-Desenvolvedor movido á café pelas madrugadas.
-
-**aprendi que : "não existir esperança onde estudamos logica de programação para quando chega na pratica o código quebra sem logica no dia seguinte"**
-
-### Contato & Links
-
  **E-mail:** johnbrenosf7@proton.me
  
  **Website:** [john-brenof.github.io/johnbreno-f](https://john-brenof.github.io/johnbreno-f/)
